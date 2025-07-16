@@ -7,7 +7,7 @@ int main(void)
 
 	scanf("%d", &a);
 
-	printf("ÀÔ·ÂµÈ °ª : %d\n", a);
+	printf("ì…ë ¥ëœ ê°’ : %d\n", a);
 
 	return 0;
 }
